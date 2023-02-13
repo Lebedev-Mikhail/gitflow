@@ -6,8 +6,8 @@ const data = {
     prop5: 5,
 }
 
-const getData = () => {
+const getDataNew = () => {
     return data;
 }
 
-getData();
+getDataNew();
