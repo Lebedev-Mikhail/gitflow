@@ -3,7 +3,7 @@ const data = {
     prop2: 2,
     prop3: 3,
     prop4: 4,
-    prop5: 5,
+    prop5: 55,
 }
 
 const getData = () => {
